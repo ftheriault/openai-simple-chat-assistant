@@ -1,4 +1,4 @@
-# Simple Chat bot tests using OpenAI
+# Simple Chat bot and assistant tests using OpenAI
 
 This is my first attempt to build a ChatBot using the OpenAI API.
 
@@ -12,7 +12,7 @@ This is my first attempt to build a ChatBot using the OpenAI API.
 OPENAI_API_KEY=sk-xxxx-ty234dsf6w2343twerfasdff
 ```
 
-4. Run `main.py`
+4. Run `chat-completion.py`
 
 ## Documentation
 
